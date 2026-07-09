@@ -91,7 +91,7 @@ groweasy-ai-csv-importer
 ## Clone Repository
 
 ```bash
-git clone https://github.com/Alanatk/groweasy-ai-csv-importer.git
+git clone https://github.com/JaisonGeorge04/Groweasy-ai-csv-importer.git
 
 cd groweasy-ai-csv-importer
 ```
@@ -258,11 +258,11 @@ NEXT_PUBLIC_API_URL=
 
 # Author
 
-**Alan Thomas**
+**Jaison George**
 
 GitHub
 
-https://github.com/Alanatk
+https://github.com/JaisonGeorge04
 
 ---
 
