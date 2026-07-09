@@ -17,7 +17,7 @@ https://groweasy-ai-csv-importer-backend-7a81.onrender.com/health
 
 ## GitHub Repository
 
-https://github.com/Alanatk/groweasy-ai-csv-importer
+https://github.com/JaisonGeorge04/Groweasy-ai-csv-importer.git
 
 ---
 
